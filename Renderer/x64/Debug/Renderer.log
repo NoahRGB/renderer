@@ -1,0 +1,3 @@
+﻿  Renderer.cpp
+C:\dev\renderer\Renderer\Renderer.cpp(49,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Renderer.vcxproj -> C:\dev\renderer\Renderer\x64\Debug\Renderer.exe
